@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="models.BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-02-01T12:56:24" hostname="DAVIDUBER" time="0.07">
+  <properties/>
+  <testcase name="testAddABook()" classname="models.BookCatalogTest" time="0.046"/>
+  <testcase name="testFindBook()" classname="models.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookIgnoringCase()" classname="models.BookCatalogTest" time="0.003"/>
+  <testcase name="testFindBookWithExtraSpaces()" classname="models.BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookThatDoesntExist()" classname="models.BookCatalogTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

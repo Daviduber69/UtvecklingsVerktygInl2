@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/risif/IdeaProjects/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/risif/IdeaProjects/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 0.0.1-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\risif\IdeaProjects\Library\src\main\java = 1706618575019
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\allclasses-index.html = 1706621646644
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\allpackages-index.html = 1706621646656
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\element-list = 1706621646214
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\help-doc.html = 1706621646920
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\index-all.html = 1706621646873
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\index.html = 1706621646592
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\jquery-ui.overrides.css = 1706621647198
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\member-search-index.js = 1706621646674
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\module-search-index.js = 1706621646661
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\overview-summary.html = 1706621646883
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\overview-tree.html = 1706621646581
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\package-search-index.js = 1706621646665
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\script.js = 1706621647032
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\search.js = 1706621647091
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\serialized-form.html = 1706621646349
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\stylesheet.css = 1706621646940
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\tag-search-index.js = 1706621646679
+C:\Users\risif\IdeaProjects\Library\target\site\apidocs\type-search-index.js = 1706621646669

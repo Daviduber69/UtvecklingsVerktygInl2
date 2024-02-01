@@ -1,0 +1,17 @@
+-classpath 'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\build\\classes\\java\\main;C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\build\\resources\\main'
+-d 'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\build\\docs\\javadoc'
+-doctitle 'LibraryGradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'LibraryGradle 1.0-SNAPSHOT API'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\Book.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\BookCatalog.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\BookNotFoundException.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\Customer.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\Loan.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\LoanAlreadyExistsException.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\LoanNotFoundException.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\models\\Material.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\ui\\Main.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\utilities\\GenderType.java'
+'C:\\Users\\risif\\IdeaProjects\\LibraryGradle\\src\\main\\java\\utilities\\LoanStatus.java'
