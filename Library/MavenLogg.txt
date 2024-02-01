@@ -1,0 +1,7 @@
+1) Jag kompilerade med compile (klickade i Maven-panelen) ( mvn compile)
+2) Jag testade med Test (klickade i Maven-panelen) (mvn test)
+3) Jag packeterade med Package (klickade i Maven-panelen) (mvn package)
+4) skrev mvn javadoc:javadoc för att fixa och kontrollera om javadoc fungerade.
+5) mvn clean för att rensa
+6) clean compile test
+7) clean package
